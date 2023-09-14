@@ -1,9 +1,18 @@
 
 ## Olá, José Mateus aqui!👋
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" >
+
  <div>
   <a href="https://github.com/mateusjose98">
 </div>
+   
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mateusjose98&PAT_1=show_icons=true&bg_color=050C21&text_color=FFF&title_color=FFFF&icon_color=FFF&PAT_1)
+ 
+</div>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Spring" height="30" width="40"
