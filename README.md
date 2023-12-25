@@ -2,7 +2,7 @@
 ## Olá, José Mateus aqui!👋
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" >
+
 
  <div>
   <a href="https://github.com/mateusjose98">
